@@ -2,4 +2,13 @@
 
 Submitted by 108642
 
-Lorem ipsum dolor sit amet
+## Introduction to Pandas DataFrames – Replicating an article in Markdown
+
+Involved files:  
+
+- **Pandas.ipynb**: jupyter notebook with text in markdown format and python code cells
+- **Pandas.webp**: in jupyter notebook integrated picture  
+- subfolder "dist"
+    - **Pandas.html**: html-export of Pandas.ipynb
+    - copy of the picture Pandas.webp
+
